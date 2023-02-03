@@ -1,1 +1,3 @@
-# dikshitha_data606
+# UMBC DATA SCIENCE Capstone project 
+**Author:** Dikshitha Kavali
+**Semester:** Spring
