@@ -14,6 +14,8 @@ The fusion of computer vision and natural language processing has received a lot
 <img src="parking_meter.jpg" width="400"/>
 
 
+This image will predict the caption as a doll sitting beside the parking meter.
+
 ### Dataset:
 
 Multiple Sources(Kaggle, OpenSource etc) Dataset Size ~ 9 GB
