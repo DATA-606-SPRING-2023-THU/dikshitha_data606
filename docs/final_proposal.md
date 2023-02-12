@@ -11,7 +11,7 @@ The ability to generate image captions has applications as it can aid the blind
 
 The fusion of computer vision and natural language processing has received a lot of interest recently due to the introduction of deep learning. This field is represented by image captioning, which trains a computer to comprehend an image's visual information using one or more sentences. The ability to analyze the state, the properties, and the relationship between these objects is also necessary for the meaningful description generating process of high level image semantics. 
 
-<img src="parking_meter.jpg" width="800"/>
+<img src="parking_meter.jpg" width="400"/>
 
 
 ### Dataset:
