@@ -5,7 +5,7 @@
 
 Youtube video link: https://youtu.be/FyN11uKtMek
 
-Presentation ppt link: https://github.com/DATA-606-SPRING-2023-THU/dikshitha_data606/blob/main/docs/capstone.pptx
+Presentation link: https://github.com/DATA-606-SPRING-2023-THU/dikshitha_data606/blob/main/docs/capstone.pptx
 
 An image caption generator is a deep learning model that generates natural language captions for images. The goal of image captioning is to teach a machine to describe the content of an image in a way that is understandable and relevant to humans. Image caption generators typically using convolutional neural networks (CNNs) to extract features from the image and a language model such as a recurrent neural network (RNN) or transformer to generate a caption. This technology has many potential applications, such as improving accessibility for people with visual impairments, enhancing search engine functionality, and improving social media content.
 
